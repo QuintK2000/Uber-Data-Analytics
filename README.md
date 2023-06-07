@@ -4,13 +4,14 @@ Data Engineering and Analytics projects that uses technologies like GCP , Looker
 # Technologies used :
 
 Google Cloud Platform
-Google Storage: Scalable and durable object storage for storing any type of data.
-Compute Instance: Virtual machines that you can use to run applications and services.
-BigQuery: Cloud data warehouse for large-scale analytics.
 
-Google Looker Studio: Used for Data Visualisation
+1) Google Storage: Scalable and durable object storage for storing any type of data.
+2) Compute Instance: Virtual machines that you can use to run applications and services.
+3) BigQuery: Cloud data warehouse for large-scale analytics.
 
-Mage-ai :Build, run, and manage data pipelines for integrating and transforming data.
+4) Google Looker Studio: Used for Data Visualisation
+
+5) Mage-ai :Build, run, and manage data pipelines for integrating and transforming data.
 
 
 # Architecture
@@ -18,4 +19,5 @@ Mage-ai :Build, run, and manage data pipelines for integrating and transforming 
 
 
 # Entity Relationship Model!
-[Blank diagram](https://github.com/QuintK2000/Uber-Data-Analytics-/assets/97881829/04d2e69e-aaa7-40ef-ba50-15f0b43c9b02)
+
+![Blank diagram](https://github.com/QuintK2000/Uber-Data-Analytics-/assets/97881829/8c932ff2-f1a2-4630-874c-4df08f082ad7)
